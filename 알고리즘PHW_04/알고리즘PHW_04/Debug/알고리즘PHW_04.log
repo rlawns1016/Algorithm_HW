@@ -1,0 +1,13 @@
+﻿  s131540_phw04.cpp
+c:\users\김준호\desktop\과제\알고리즘 과제\알고리즘phw_04\알고리즘phw_04\s131540_phw04.cpp(12): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김준호\desktop\과제\알고리즘 과제\알고리즘phw_04\알고리즘phw_04\s131540_phw04.cpp(29): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김준호\desktop\과제\알고리즘 과제\알고리즘phw_04\알고리즘phw_04\s131540_phw04.cpp(37): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김준호\desktop\과제\알고리즘 과제\알고리즘phw_04\알고리즘phw_04\s131540_phw04.cpp(38): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김준호\desktop\과제\알고리즘 과제\알고리즘phw_04\알고리즘phw_04\s131540_phw04.cpp(55): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김준호\desktop\과제\알고리즘 과제\알고리즘phw_04\알고리즘phw_04\s131540_phw04.cpp(180): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김준호\desktop\과제\알고리즘 과제\알고리즘phw_04\알고리즘phw_04\s131540_phw04.cpp(181): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김준호\desktop\과제\알고리즘 과제\알고리즘phw_04\알고리즘phw_04\s131540_phw04.cpp(154): warning C4101: 'CPc' :참조되지 않은 지역 변수입니다.
+  Closest_pair_main_DC.cpp
+  코드를 생성하고 있습니다...
+  알고리즘PHW_04.vcxproj -> C:\Users\김준호\Desktop\과제\알고리즘 과제\알고리즘PHW_04\Debug\알고리즘PHW_04.exe
+  알고리즘PHW_04.vcxproj -> C:\Users\김준호\Desktop\과제\알고리즘 과제\알고리즘PHW_04\Debug\알고리즘PHW_04.pdb (Full PDB)

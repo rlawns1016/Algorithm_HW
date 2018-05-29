@@ -1,0 +1,2 @@
+**T1 (Dijkstra) (V = 40000, E = 739311, time = 12.414 sec) Tree Cost = 1178513
+	 1st max dist = 451939, 3rd max dist = 451653

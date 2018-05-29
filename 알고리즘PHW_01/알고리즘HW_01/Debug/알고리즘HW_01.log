@@ -1,0 +1,6 @@
+﻿  s131540_phw01.cpp
+  Graph_adj_list_tree_check.cpp
+  Graph_adj_list_ptr_L.cpp
+  Graph_adj_list_main.cpp
+  코드를 생성하고 있습니다...
+LINK : fatal error LNK1207: 'C:\Users\JunhoKim\Desktop\과제\알고리즘 과제\알고리즘PHW_01\Debug\알고리즘HW_01.pdb'에 호환되지 않는 PDB 형식이 있습니다. 삭제한 다음 다시 빌드하십시오.
